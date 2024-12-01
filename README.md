@@ -21,7 +21,7 @@ Todos os atributos são encapsulados e validados conforme necessário. Cada clas
 - **MySQL**: Banco de dados relacional para armazenamento dos dados.
 - **Maven**: Para gerenciamento de dependências.
 
-### 🔧 Instalação
+## 🔧 Instalação
 
 1. Clone este repositório:
 
@@ -43,7 +43,7 @@ Copiar código
 mvn clean install
 Execute o projeto na sua IDE (IntelliJ IDEA).
 
-📌 Banco de Dados Relacional
+## 📌 Banco de Dados 
 O banco de dados é criado com base nas classes do sistema, onde cada classe representa uma tabela e os atributos representam as colunas da tabela.
 
 Tabelas Criadas:
@@ -54,20 +54,20 @@ Bicicleta
 Skate
 Cada classe possui um método que gera o comando INSERT para popular o banco de dados.
 
-🛠️ Ferramentas e Tecnologias Utilizadas
+## 🛠️ Ferramentas e Tecnologias Utilizadas
 JPA (Java Persistence API): Para persistência dos dados no banco de dados MySQL.
 MySQL: Banco de dados relacional utilizado para armazenar os dados dos veículos.
 Maven: Gerenciamento de dependências.
 javax.persistence: Para a configuração do JPA.
 
 
-📝 Como Testar
+## 📝 Como Testar
 Crie objetos de veículos (Automóveis, Motocicletas, Caminhões, Bicicletas, Skates).
 Chame o método salvar() para inserir os dados no banco de dados.
 Verifique se as tabelas foram criadas no banco de dados.
 Confira o console para ver as mensagens de sucesso ou erro
 
-📸 Imagens
+## 📸 Imagens
 ![image](https://github.com/user-attachments/assets/5d0778d8-d03b-4481-a725-0db24b3ce4bf)
 ![image](https://github.com/user-attachments/assets/b87bbb19-d369-4bc8-aba3-39ffdee14d26)
 ![image](https://github.com/user-attachments/assets/c512ac3d-44fb-430b-b74f-b1b962730d91)
@@ -79,6 +79,6 @@ Confira o console para ver as mensagens de sucesso ou erro
 ![image](https://github.com/user-attachments/assets/95767b4e-e8cb-4bf9-b21a-96b3f654bd71)
 
 
-✒️ Autores
+## ✒️ Autores
 Bruno - Atividade individual - Lista de Exercícios AC2 - HERANÇA 3/4
 
