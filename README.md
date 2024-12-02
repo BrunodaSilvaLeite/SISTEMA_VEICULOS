@@ -1,7 +1,5 @@
 # SISTEMA_VEICULOS
 
-## 🚀 Começando
-
 Este sistema processa dados de veículos de vários tipos, permitindo o armazenamento e gerenciamento de informações sobre automóveis, motocicletas, caminhões, bicicletas e skates. O sistema utiliza JPA (Java Persistence API) para interação com o banco de dados MySQL e Maven para gerenciamento de dependências.
 
 ### Estrutura do Sistema:
